@@ -1,1 +1,1 @@
-https://github.com/Monozjazd/markup-hw-03.git
+https://github.com/Monozjazd/goit-markup-hw-03.git
